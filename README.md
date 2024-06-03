@@ -9,7 +9,7 @@
 
 ## Hi there 👋
 
-My name is Davi Augusto, I am a mobile developer at Gok Digital, I am passionate about technology and currently work with JavaScript, TypeScript, React, React Native, NodeJs, GraphQL among many other technologies.
+My name is Davi Augusto, I am a mobile developer, I am passionate about technology and currently work with JavaScript, TypeScript, React, React Native, NodeJs, GraphQL among many other technologies.
 
 
 - 💻 Working with JavaScript, TypeScript, NodeJS, React Native, ReactJs, Gatsby and GraphQL.
