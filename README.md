@@ -12,7 +12,6 @@
 My name is Davi Augusto, I am a mobile developer at Gok Digital, I am passionate about technology and currently work with JavaScript, TypeScript, React, React Native, NodeJs, GraphQL among many other technologies.
 
 
-- 🔭 I’m currently working on [Signa](https://signainfo.com.br/) as a mobile developer, a digital innovation company in São Paulo, Brazil.
 - 💻 Working with JavaScript, TypeScript, NodeJS, React Native, ReactJs, Gatsby and GraphQL.
 - 🌱 I’m currently learning Python and React.
 - 💬 Ask me about Mobile Development, Web and Backend.
